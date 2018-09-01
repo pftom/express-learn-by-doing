@@ -182,7 +182,7 @@ steps:
         explain:
           pre: 我们打开编辑器，在项目下创建一个 `index.js` 文件，然后在其中填入如下的内容：
           post: >-
-            这是一个简单的 “Hello World” 的打印输出。让我们来看一看如何在 Node.js
+            这是一个简单的 “Hello Node” 的打印输出。让我们来看一看如何在 Node.js
             运行这条输出。我们打开终端，进入到项目目录之下，在终端中输入如下的命令：
 
 
@@ -197,11 +197,11 @@ steps:
             项目时都会用到上面类似的命令。当运行了上面的命令之后，我们可以在终端看到如下的输出：
 
 
-            ![](tuture-assets/391b07f021241dade56f65fa9ec3c614)
+            ![](tuture-assets/ce338624ec5e0c4c3ab08e5e3c14ae8f)
 
 
             恭喜你！现在你已经成功完成了一个最最基本的 Node.js 项目，它看起来相当的简单，以至于简单得有点单调，接下来我们将开始使用
-            Express ，让浏览器输出 “Hello World”。
+            Express ，让浏览器输出 “Hello Node”。
     explain:
       pre: |-
         让我们回忆一下在上一节我们完成了哪些工作：
