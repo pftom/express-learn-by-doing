@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "pftom <1043269994@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
